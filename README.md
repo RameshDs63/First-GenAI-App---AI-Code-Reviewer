@@ -11,3 +11,5 @@ The objective of this project is to develop a Python application that allows use
 1. Utilize the OpenAI API for code review functionality.
 2. The application should analyze the submitted code and identify potential bugs, errors, or areas of improvement.
 3. The application should also provide the fixed code snippets.
+
+![Screenshot 2024-04-17 152745](https://github.com/RameshDs63/First-GenAI-App---AI-Code-Reviewer/assets/143344220/2bbdda01-4a0e-4990-a0fc-7817b164cfd9)
